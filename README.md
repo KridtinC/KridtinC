@@ -4,7 +4,7 @@
 I am an enthusiastic **_Software Engineer_** who keeps update new trends of technology and now interested in Blockchain technology. My next aim is building a project which consolidating Blockchain technology with an existing technology stacks to maximize capability of both technologies.
 
 ## Current Position
-My position inside the company is an **_Software Engineer_**, design/develop Centralized Back Office financial application for KBank users at KBTG
+My position inside the company is an **_Software Engineer_**, design/develop Centralized Back Office financial application for KBank users at [KBTG](https://www.kbtg.tech/)
 
 ## Languages and Tech Stacks
 ### Web Development
