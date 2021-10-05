@@ -37,6 +37,7 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ### Deployment Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square)
 
 ### Cloud Platform
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon%20aws&logoColor=white&style=flat-square)
