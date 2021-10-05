@@ -20,6 +20,7 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![SwaggerAPI](https://img.shields.io/badge/-Swagger%20API-85EA2D?logo=swagger&logoColor=white&style=flat-square)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -33,9 +34,32 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ### Testing Tools
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot%20framework&logoColor=white&style=flat-square)
 
+### Deployment Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+
+### Cloud Platform
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon%20aws&logoColor=white&style=flat-square)
+<br />Used tools: EC2, ECS, RDS, S3, DynamoDB, Lambda, Elastic Beanstalk<br /><br />
+![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=google%20cloud&logoColor=white&style=flat-square)
+<br />Used tools: Compute Engine, Cloud Run, Google Maps API, Google Sheets API
+
+### Other Working Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![ControlM](https://img.shields.io/badge/-Control%20M-FE5000?logo=bmc%20software&logoColor=white&style=flat-square)
+
 ### Others (rarely used)
 #### Data: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 #### Game Development: ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square) ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp&logoColor=white&style=flat-square)
+#### Blockchain (currently studying): ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white&style=flat-square)
+
+### Skills
+- Object-Oriented Programming
+- Shell Scripting
+- Scrum
+- MVC
+- MVVM
 
 ## Top Languages in GitHub repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
