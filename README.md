@@ -25,23 +25,24 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![SwaggerAPI](https://img.shields.io/badge/-Swagger%20API-85EA2D?logo=swagger&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?logo=graphql&logoColor=white&style=flat-square)
+![gRPC](https://img.shields.io/badge/-gRPC-5cafb5?logo=g-rpc&logoColor=white&style=flat-square)
+
+### Message Queue
+![Kafka](https://img.shields.io/badge/-Kafka-231f20?logo=apache-kafka&logoColor=white&style=flat-square)
 
 ### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-589636?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
 ![YottaDB](https://img.shields.io/badge/-YottaDB-3c176a?logo=&logoColor=white&style=flat-square)
-
-### Mobile Platform
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white&style=flat-square)
 
 ### Testing Tools
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot%20framework&logoColor=white&style=flat-square)
 
 ### Deployment Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square)
 
 ### Cloud Platform
@@ -56,6 +57,7 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ![ControlM](https://img.shields.io/badge/-Control%20M-FE5000?logo=bmc%20software&logoColor=white&style=flat-square)
 
 ### Others (rarely used)
+### Mobile Platform: ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 #### Data: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 #### Game Development: ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square) ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp&logoColor=white&style=flat-square)
 #### Blockchain (currently studying): ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white&style=flat-square)
