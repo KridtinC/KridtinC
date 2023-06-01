@@ -57,7 +57,7 @@ My position inside the company is an **_Software Engineer_**, design/develop Cen
 ![ControlM](https://img.shields.io/badge/-Control%20M-FE5000?logo=bmc%20software&logoColor=white&style=flat-square)
 
 ### Others (rarely used)
-### Mobile Platform: ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+#### Mobile Platform: ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 #### Data: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 #### Game Development: ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square) ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp&logoColor=white&style=flat-square)
 #### Blockchain (currently studying): ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white&style=flat-square)
