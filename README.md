@@ -1,17 +1,21 @@
 ## ✨ Welcome to my GitHub repository ✨
 
 ## About me
-I am an enthusiastic **_Software Engineer_** who keeps update new trends of technology and now interested in Blockchain technology. My next aim is building a project which consolidating Blockchain technology with an existing technology stacks to maximize capability of both technologies.
+As a seasoned Software Engineer, I love to keep myself up-to-date with the latest trends and advancements in technology. My work primarily involves the development of end-to-end web applications using the programming languages of Go and TypeScript. I'm always eager to explore new tools and techniques that can help me enhance my knowledge and skillset.
 
 ## Current Position
+**_Solution Engineer_** at [LINE Company (Thailand)](https://linecorp.com/th/)
+
+## Past Position
 My position inside the company is an **_Software Engineer_**, design/develop Centralized Back Office financial application for KBank users at [KBTG](https://www.kbtg.tech/)
 
 ## Languages and Tech Stacks
 ### Web Development
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
+![Vue.js]()
+![Nuxt]()
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
